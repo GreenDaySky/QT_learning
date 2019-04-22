@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/fruit">
+        <file>apple.png</file>
+        <file>cindy.png</file>
+        <file>strawberry .png</file>
+    </qresource>
+</RCC>
