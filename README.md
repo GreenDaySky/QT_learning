@@ -1,6 +1,6 @@
-# LeetCode_practice
+# QT_learning
 
-±¾¿âÓÃÀ´¼ÇÂ¼±¾ÈËµÄË¢Ìâ¼ÇÂ¼ °´Ê±¼ä½øÐÐ×Ü½á
+æœ¬åº“ç”¨æ¥è®°å½•æœ¬äººçš„QTå­¦ä¹ è®°å½• æŒ‰æ—¶é—´è¿›è¡Œæ€»ç»“
 
 
-¡¡¡¡¡¡BOOM
+ã€€ã€€ã€€BOOMï¼ï¼ï¼
